@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/googleapis/python-artifact-registry/compare/v1.1.2...v1.2.0) (2022-03-22)
+
+
+### Features
+
+* promote v1beta2 features to v1 ([#138](https://github.com/googleapis/python-artifact-registry/issues/138)) ([842c107](https://github.com/googleapis/python-artifact-registry/commit/842c107cb6f6705c3228495ce43653414801af9f))
+
 ### [1.1.2](https://github.com/googleapis/python-artifact-registry/compare/v1.1.1...v1.1.2) (2022-03-05)
 
 
